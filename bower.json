@@ -1,0 +1,28 @@
+{
+  "name": "evil-monkey-notes",
+  "version": "0.0.1",
+  "authors": [
+    "tad <tad.renstrom@thirdwavellc.com>"
+  ],
+  "description": "This is merely a test of git and private bower to try to get it all to work together",
+  "main": "index.html",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "test",
+    "nwjs",
+    "nodejs",
+    "node",
+    "webkit"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

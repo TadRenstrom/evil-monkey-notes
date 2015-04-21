@@ -1,0 +1,21 @@
+{
+  "name": "nw-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thadeus Maximus",
+  "window": {
+    "toolbar": true,
+    "width": 900,
+    "height": 600
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3",
+    "jquery": "^2",
+    "walk":"^2"
+  }
+}
